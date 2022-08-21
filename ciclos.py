@@ -1,2 +1,2 @@
-print("primer mensaje")
-print("segundo mensaje")
+x = ["Laura", "Daniela", "Camila"]
+print(x)
